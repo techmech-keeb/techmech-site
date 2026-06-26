@@ -1,0 +1,30 @@
+{
+  "primary": [
+    {
+      "label": "Products",
+      "href": "/products/",
+      "description": "Techmech keysの製品を見る"
+    },
+    {
+      "label": "Shop",
+      "href": "https://techmech.booth.pm/",
+      "description": "BOOTHで購入・頒布情報を確認する",
+      "external": true
+    },
+    {
+      "label": "Support",
+      "href": "/support/",
+      "description": "ビルドガイド、Firmware、サポート情報を見る"
+    }
+  ],
+  "external": [
+    {
+      "label": "BOOTH",
+      "href": "https://techmech.booth.pm/"
+    },
+    {
+      "label": "OLSK60 v2 GitHub",
+      "href": "https://github.com/techmech-keeb/OLSK60_v2"
+    }
+  ]
+}
